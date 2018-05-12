@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '3782'
     url: http://www.gutenberg.org/2009/agents/3782
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25813#Isle-o-Dreams
 gutenberg_issued: '2008-06-16'
 gutenberg_type: Text
 identifiers:
