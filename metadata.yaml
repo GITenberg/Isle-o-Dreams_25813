@@ -1,0 +1,35 @@
+_repo: Isle-o-Dreams_25813
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Coleman, Ralph P. (Ralph Pallen)
+    alias: Coleman, Ralph Pallen
+    birthdate: 1892
+    deathdate: 1968
+    gutenberg_agent_id: '6922'
+    url: http://www.gutenberg.org/2009/agents/6922
+covers:
+- cover_type: archival
+  image_path: 25813-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Moore, Frederick Ferdinand
+    alias: Moore, Frederick F. (Frederick Ferdinand)
+    birthdate: 1877
+    gutenberg_agent_id: '3782'
+    url: http://www.gutenberg.org/2009/agents/3782
+description: ''
+gutenberg_issued: '2008-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Sea stories'
+title: Isle o' Dreams
+url: http://www.gutenberg.org/ebooks/25813
